@@ -4,7 +4,7 @@
     <span style="color:#38BDF8;">Hi, I am</span>
     Shreyansh Rai  
     <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Frontend+Focused+Developer;AI+%26+ML+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Backend+Focused+Developer;AI+%26+ML+Enthusiast" />
   </h1>
 
   <p>
