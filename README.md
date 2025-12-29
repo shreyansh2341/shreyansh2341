@@ -1,55 +1,69 @@
-# Hi there, I'm Shreyansh Rai 👋 🚀
-**Full Stack Intern | MERN Stack Enthusiast | AI & ML Student**
-
-I am an aspiring Full Stack Developer specializing in the MERN stack, with a passion for building scalable, user-centric web applications and exploring the intersection of IoT and AI.
-
----
-
-### 🛠️ My Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-blue) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-orange) ![JWT](https://img.shields.io/badge/-JWT-black?logo=json-web-tokens) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) |
+<div align="center">
+  <h1>🚀 Hi, I'm Shreyansh Rai</h1>
+  <p><strong>Full Stack Developer | MERN Specialist | AI & ML Enthusiast</strong></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/shreyansh-rai-412578312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:shreyanshrai940@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 🌟 Featured Projects
+### 👤 About Me
+[cite_start]I am a Full Stack Developer currently pursuing my **B.E. in Computer Science (AI & ML)** at Mumbai University[cite: 40]. [cite_start]With a CGPA of **8.15**, I balance academic excellence with hands-on industry experience[cite: 40]. [cite_start]My core strength lies in building **scalable, user-centric applications** using the MERN stack[cite: 6].
 
-#### 💻 [ACCU DESIGN](https://www.accudesign.in/)
-[cite_start]*Industry-level service platform built during my internship at Technewity Labs.* [cite: 12, 14]
-- [cite_start]**Tech:** React.js, Node.js, Express.js, MongoDB [cite: 15]
-- [cite_start]**Key Features:** Role-based access, dynamic admin dashboards, and order tracking[cite: 14].
+* [cite_start]🔭 **Currently:** Interning as a Full Stack Developer at **Technewity Labs**, working on industry-level service platforms[cite: 35, 36].
+* [cite_start]🌱 **Learning:** Advanced Machine Learning and AI Chatbot integrations[cite: 10, 40].
+* ⚡ **Fun Fact:** I don't just build for the web; [cite_start]I also prototype IoT solutions with **Arduino and ESP32**[cite: 10, 24].
+
+---
+
+### 💻 Technical Toolbox
+
+| **Frontend** | **Backend & DB** | **DevOps & Tools** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge) |
+
+---
+
+### 🏆 Featured Projects
+
+#### 🏢 [ACCU DESIGN](https://www.accudesign.in/) (Industry Project)
+* [cite_start]**Role:** Full Stack Intern[cite: 14].
+* [cite_start]**Impact:** Developed a service-based platform featuring role-based access, dynamic admin dashboards, and order tracking[cite: 14].
+* [cite_start]**Tech:** React.js, Node.js, Express.js, MongoDB[cite: 15].
 
 #### 📚 [Library Management System](https://github.com/shreyansh2341/Library_Management_System)
-[cite_start]*A full-stack digital library platform.* [cite: 16, 18]
-- [cite_start]**Key Features:** Secure JWT authentication, CRUD operations, and fine-grained access control[cite: 18].
+* [cite_start]**Features:** Engineered a digital platform with secure **JWT authentication** and fine-grained access control[cite: 18].
+* [cite_start]**Architecture:** Built responsive React components integrated with custom REST APIs[cite: 19].
 
-#### 📝 [Blogs Management Website](https://github.com/shreyansh2341/Blogs-Management)
-[cite_start]*A collaborative blogging platform with admin moderation.* [cite: 20, 22]
-- [cite_start]**Key Features:** Admin approval system and responsive UI[cite: 22, 23].
+#### 🤖 [AI-Based BMI Recommendation System](https://github.com/shreyansh2341/AI-Based-BMI-Calculation)
+* [cite_start]**Innovation:** Integrated an **AI chatbot** to provide personalized diet and exercise suggestions based on BMI results[cite: 29, 30].
+* [cite_start]**Tech:** Vanilla JS, DOM Manipulation, and Chatbot APIs[cite: 30].
 
----
-
-### 💼 Professional Experience
-- [cite_start]**Full Stack Intern** at **Technewity Labs** (Jan 2025 – Present) [cite: 35]
-  - [cite_start]Developing responsive UIs and secure REST APIs for industry projects[cite: 36].
-- [cite_start]**Web Development Intern** at **Codespaze** (Jul 2024 – Sep 2024) [cite: 37]
-  - [cite_start]Optimized performance and enhanced web components[cite: 38].
+#### 🌦️ [IoT Weather Station](https://github.com/shreyansh2341)
+* [cite_start]**Hardware:** Used **ESP32 and Arduino** to automate irrigation based on temperature and humidity sensors[cite: 25, 26].
 
 ---
 
-### 📊 GitHub Stats
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh2341&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh2341&layout=compact&theme=radical)
+### 📜 Certifications
+* [cite_start]🎓 **Full Stack Internship Certificate** – Technewity Labs (2025)[cite: 42].
+* [cite_start]🐍 **Python 3.x Programming** – Simplilearn (2024)[cite: 43].
+* 🏫 **B.E. [cite_start]Computer Science (AI & ML)** – ARMIET, Mumbai University[cite: 40].
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-rai-412578312)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyanshrai940@gmail.com)
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh2341&show_icons=true&theme=tokyonight&count_private=true" alt="Shreyansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh2341&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
-[cite_start]*Current Focus: Finishing my B.E. in CS (AI & ML) at Mumbai University (Expected 2026).* [cite: 40]
+<div align="center">
+  <em>"Building the future with code, one commit at a time."</em>
+</div>
