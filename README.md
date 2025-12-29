@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/> JavaScript &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" title="HTML5"/> HTML5 &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/> CSS3 &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/> Git &nbsp;&nbsp;<br>
   <img src="https://skillicons.dev/icons?i=postman" title="Postman"/> Postman &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/> Vercel
 </p>
