@@ -23,23 +23,32 @@
 ---
 
 ### 👤 Professional Summary
-🚀 A **frontend-focused MERN Stack developer** who loves turning ideas into fast, elegant, and scalable web applications. I specialize in crafting smooth user experiences on the frontend and backing them with secure, efficient REST APIs. Currently pursuing a **B.E. in Computer Science (AI & ML)** at Mumbai University, with hands-on experience building real-world, production-grade systems using modern web technologies.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+  <br/>
+  <strong>🚀 Frontend-focused MERN Stack developer</strong> crafting fast, elegant, and scalable web applications.  
+  I specialize in building delightful user experiences and powering them with secure, high-performance REST APIs.  
+  Currently pursuing a <strong>B.E. in Computer Science (AI & ML)</strong> at Mumbai University with hands-on experience in production-grade systems.
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</div>
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" /> Express &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" /> JavaScript &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" /> HTML5 &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" /> CSS3 &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" /> Postman &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" /> Vercel
+  <img src="https://skillicons.dev/icons?i=react" title="React.js"/> React &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/> Node.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js"/> Express &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/> MongoDB &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/> HTML5 &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/> CSS3 &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/> Postman &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/> Vercel
 </p>
 
 ---
@@ -47,54 +56,50 @@
 ### 📂 Featured Projects
 
 #### 🏢 [ACCU DESIGN](https://www.accudesign.in/) | Industry-Level MERN Stack  
-A production-grade service platform developed during my internship to manage vendors, admins, and customers in a unified system.  
-Built with scalability, performance, and enterprise-level access control in mind.
+A production-grade service platform developed during my internship to manage vendors, admins, and customers.  
+Engineered for scalability, role-based access control, and enterprise workflows.
 
 **💡 Key Skills:**  
-<span style="background:#2563EB;color:white;padding:4px 8px;border-radius:6px;">RBAC</span>
-<span style="background:#22C55E;color:white;padding:4px 8px;border-radius:6px;">Admin Dashboards</span>
-<span style="background:#F59E0B;color:white;padding:4px 8px;border-radius:6px;">Order Tracking</span>
-<span style="background:#A855F7;color:white;padding:4px 8px;border-radius:6px;">REST APIs</span>
+![RBAC](https://img.shields.io/badge/RBAC-2563EB?style=for-the-badge&logo=lock&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Admin%20Dashboards-22C55E?style=for-the-badge&logo=windows&logoColor=white)
+![Orders](https://img.shields.io/badge/Order%20Tracking-F59E0B?style=for-the-badge&logo=shopify&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-A855F7?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 #### 📚 [Library Management System](https://github.com/shreyansh2341/Library_Management_System) | Full Stack  
-A secure digital library platform enabling role-based access, catalog management, and administrative control.  
-Focused on data integrity, clean architecture, and maintainable backend logic.
+A secure digital library enabling role-based access, catalog management, and administrative control.  
+Focused on maintainability, clean architecture, and secure backend logic.
 
 **💡 Key Skills:**  
-<span style="background:#16A34A;color:white;padding:4px 8px;border-radius:6px;">JWT Auth</span>
-<span style="background:#2563EB;color:white;padding:4px 8px;border-radius:6px;">Schema Design</span>
-<span style="background:#F43F5E;color:white;padding:4px 8px;border-radius:6px;">CRUD Ops</span>
-<span style="background:#9333EA;color:white;padding:4px 8px;border-radius:6px;">Middleware</span>
+![JWT](https://img.shields.io/badge/JWT%20Auth-16A34A?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Schema](https://img.shields.io/badge/Schema%20Design-2563EB?style=for-the-badge&logo=databricks&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD%20Ops-F43F5E?style=for-the-badge&logo=postgresql&logoColor=white)
+![Middleware](https://img.shields.io/badge/Middleware-9333EA?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
 #### 🤖 [AI-Based BMI System](https://github.com/shreyansh2341/AI-Based-BMI-Calculation) | Web + AI  
-An intelligent BMI calculator that evaluates health metrics and provides personalized recommendations.  
-Designed to blend simple UI with meaningful AI-driven user interaction.
+An intelligent BMI calculator delivering health insights with personalized recommendations.  
+Designed to combine clean UI with meaningful AI-driven interactions.
 
 **💡 Key Skills:**  
-<span style="background:#0EA5E9;color:white;padding:4px 8px;border-radius:6px;">AI Chatbot</span>
-<span style="background:#22C55E;color:white;padding:4px 8px;border-radius:6px;">Algorithms</span>
-<span style="background:#F97316;color:white;padding:4px 8px;border-radius:6px;">DOM Logic</span>
-<span style="background:#A855F7;color:white;padding:4px 8px;border-radius:6px;">UX Flow</span>
+![AI](https://img.shields.io/badge/AI%20Chatbot-0EA5E9?style=for-the-badge&logo=openai&logoColor=white)
+![Algo](https://img.shields.io/badge/Algorithms-22C55E?style=for-the-badge&logo=leetcode&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM%20Logic-F97316?style=for-the-badge&logo=html5&logoColor=white)
+![UX](https://img.shields.io/badge/UX%20Flow-A855F7?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-<div align="center">
-
-| 🎖 | Achievement |
-|----|-------------|
-| 🏆 | **Smart India Hackathon 2025** – National-level participation |
-| 🤖 | **MumbaiHacks 2025** – Agentic AI Hackathon |
-| 🧠 | **Tata Crucible Campus Quiz 2025** – Level-1 Prelims |
-| 💼 | **Full Stack Internship – Technewity Labs (2025)** |
-| 🐍 | **Python 3x Programming – Simplilearn (2024)** |
-
-</div>
+<p align="center">
+  🏆 <strong>Smart India Hackathon 2025</strong> — National-level participation  
+  <br/>🤖 <strong>MumbaiHacks 2025</strong> — Agentic AI Hackathon  
+  <br/>🧠 <strong>Tata Crucible Campus Quiz 2025</strong> — Level-1 Prelims  
+  <br/>💼 <strong>Full Stack Internship</strong> — Technewity Labs (2025)  
+  <br/>🐍 <strong>Python 3x Programming</strong> — Simplilearn (2024)
+</p>
 
 ---
 
