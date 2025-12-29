@@ -96,7 +96,7 @@ Designed to combine clean UI with meaningful AI-driven interactions.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆%20Smart%20India%20Hackathon-2025-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆%20Skill%20India%20Hackathon-2025-22C55E?style=for-the-badge"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/🤖%20MumbaiHacks-Agentic%20AI-A855F7?style=for-the-badge"/>
 <br/><br/>
