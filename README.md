@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Shreyansh Rai</h1>
-  <p><strong>Full Stack Developer | MERN Stack Enthusiast | AI & ML Specialist</strong></p>
+  <p><strong>Full Stack Developer | MERN Stack Specialist | AI & ML Enthusiast</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/shreyansh-rai-412578312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,70 +12,70 @@
 ---
 
 ### 👤 Professional Summary
-Aspiring **Full Stack Developer** with strong proficiency in designing and deploying responsive, scalable, and user-centric applications. Currently pursuing a **B.E. in Computer Science (AI & ML)** with a **8.15 CGPA**. I specialize in the **MERN Stack** and have hands-on experience in RESTful API development, secure authentication, and Agile methodologies.
+[cite_start]Aspiring **Full Stack Developer** with strong proficiency in designing and deploying responsive, scalable, and user-centric applications[cite: 6]. [cite_start]Currently pursuing a **B.E. in Computer Science (AI & ML)** at Mumbai University with an **8.15 CGPA**[cite: 40]. [cite_start]Experienced in **RESTful API development**, secure authentication, and **Agile methodologies**[cite: 7, 8].
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-| **Frontend** | **Backend & Database** | **Tools & Platforms** |
-| :--- | :--- | :--- |
-| 🔹 React.js / Hooks | 🔸 Node.js / Express.js | 🛠️ Git / GitHub |
-| 🔹 JavaScript (ES6+) | 🔸 MongoDB (Aggregation) | 🛠️ Postman API Testing |
-| 🔹 HTML5 & CSS3 | 🔸 JWT & OAuth | 🛠️ Agile / Scrum |
-| 🔹 Responsive Design | 🔸 RESTful API Design | 🛠️ Vercel / Heroku |
+#### 🌐 Frontend Development
+- ⚛️ **React.js / Hooks** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+- 🟨 **JavaScript (ES6+)** ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- 🟧 **HTML5 & CSS3** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- 📱 **Responsive Web Design** ![CSS](https://img.shields.io/badge/-Responsive-blue?style=flat-square)
+
+#### ⚙️ Backend & Database
+- 🟢 **Node.js** ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ⚪ **Express.js** ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+- 🍃 **MongoDB** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- 🔐 **Authentication (JWT/OAuth)** ![Auth](https://img.shields.io/badge/-Auth-black?style=flat-square&logo=json-web-tokens)
+
+#### 🛠️ Tools & DevOps
+- 🚀 **Git & GitHub** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 🧪 **Postman API Testing** ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- ☁️ **Vercel / Heroku** ![Deployment](https://img.shields.io/badge/-Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
+- 🔄 **Agile / Scrum** ![Agile](https://img.shields.io/badge/-Agile-blue?style=flat-square)
 
 ---
 
 ### 📂 Featured Projects
 
 #### 🏢 [ACCU DESIGN](https://www.accudesign.in/) | Industry-Level MERN Stack
-*Developed during Full Stack Internship at Technewity Labs.*
-- ⚡ **Dynamic Dashboards:** Built role-based access control and admin panels.
-- 🔐 **Security:** Implemented secure RESTful APIs and authentication.
-- 📱 **UI/UX:** Created high-fidelity, responsive components using React.js.
-- **Stack:** `MongoDB` `Express` `React` `Node.js`
+[cite_start]*Collaborated with Technewity Labs as a Full Stack Intern[cite: 14].*
+- [cite_start]🛠️ **Features:** Role-based access, dynamic admin dashboards, and user order tracking[cite: 14].
+- [cite_start]🔗 **Tech:** React.js, Node.js, Express.js, MongoDB, Git[cite: 15].
 
 #### 📚 [Library Management System](https://github.com/shreyansh2341/Library_Management_System) | Full Stack
-- 🔑 **Auth:** Integrated secure JWT for user/admin role-based authentication.
-- 💾 **Data:** Engineered full CRUD operations for digital book management.
-- 🌐 **Integration:** Connected responsive React frontend with custom REST APIs.
-- **Stack:** `MERN Stack` `JWT` `Git`
+- [cite_start]🔑 **Auth:** Secure JWT-based digital library platform with user/admin dashboards[cite: 18].
+- [cite_start]💾 **Data:** Full CRUD operations and fine-grained access control[cite: 18].
+- [cite_start]🌐 **Tech:** MERN Stack, REST APIs, Git[cite: 19].
 
 #### 🤖 [BMI-Based Recommendation System](https://github.com/shreyansh2341/AI-Based-BMI-Calculation) | Web + AI
-- 💬 **AI Interaction:** Integrated an AI chatbot for personalized health consulting.
-- 🥗 **Logic:** Developed algorithms to suggest diet and exercise plans based on BMI data.
-- **Stack:** `Vanilla JS` `DOM Manipulation` `AI Chatbot API`
-
-#### 🌦️ [IoT Weather Station](https://github.com/shreyansh2341) | Hardware & Software
-- 📡 **Automation:** Built a smart irrigation solution using **ESP32** and **Arduino**.
-- 🌡️ **Sensors:** Automated decisions based on temperature, humidity, and rainfall data.
-- **Stack:** `Arduino IDE` `ESP32 Microcontroller` `Sensor APIs`
+- [cite_start]💬 **AI Interaction:** Integrated an AI chatbot to suggest personalized diet and exercise plans[cite: 29, 30].
+- [cite_start]📊 **Logic:** Built using Vanilla JS and DOM Manipulation to classify BMI results[cite: 29, 30].
 
 ---
 
-### 💼 Professional Experience
-- **Full Stack Intern** | *Technewity Labs, Mumbai* (Jan 2025 – Present)
-- **Web Development Intern** | *Codespaze, Mumbai* (Jul 2024 – Sep 2024)
-
-### 📜 Certifications & Education
-- 🎓 **B.E. Computer Science (AI & ML)** - ARMIET, Mumbai University (2022-2026)
-- ✅ **Full Stack Internship Certificate** - Technewity Labs
-- ✅ **Python 3x Programming** - Simplilearn
+### 📜 Certifications & Achievements
+- [cite_start]🤖 **MumbaiHacks 2025** – Participant in the largest Agentic AI hackathon organized by TEAM[cite: 52].
+- 🏆 **Smart India Hackathon 2025** – Participated in the 3-day internal Hackathon (Sept 18-20, 2025).
+- [cite_start]🧠 **Tata Crucible Campus Quiz 2025** – Participation in Prelims Level 1 of this national competition[cite: 62, 65].
+- [cite_start]🐍 **Python 3x Programming** – Simplilearn (2024)[cite: 43].
+- [cite_start]💼 **Full Stack Internship** – Technewity Labs (2025)[cite: 42].
 
 ---
 
-### 📊 Professional Insights
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh2341&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh2341&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh2341&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh2341&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh2341&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh2341&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 <p align="center">
-  <em>"Turning complex problems into elegant, scalable code."</em>
+  <em>"Transforming complex requirements into seamless digital experiences."</em>
 </p>
