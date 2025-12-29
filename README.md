@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Shreyansh Rai</h1>
+  <h1>🚀 Hi, I'm Shreyansh Rai</h1>
   <p><strong>Full Stack Developer | MERN Stack Specialist | AI & ML Enthusiast</strong></p>
 
   <p>
@@ -12,7 +12,7 @@
 ---
 
 ### 👤 Professional Summary
-[cite_start]Aspiring **Full Stack Developer** with strong proficiency in designing and deploying responsive, scalable, and user-centric applications[cite: 6]. [cite_start]Currently pursuing a **B.E. in Computer Science (AI & ML)** at Mumbai University with an **8.15 CGPA**[cite: 40]. [cite_start]Experienced in **RESTful API development**, secure authentication, and **Agile methodologies**[cite: 7, 8].
+Aspiring **Full Stack Developer** with strong proficiency in designing and deploying responsive, scalable, and user-centric applications. Currently pursuing a **B.E. in Computer Science (AI & ML)** at Mumbai University. Specialized in the **MERN Stack** with hands-on experience in RESTful API development, secure authentication, and Agile methodologies.
 
 ---
 
@@ -41,41 +41,40 @@
 ### 📂 Featured Projects
 
 #### 🏢 [ACCU DESIGN](https://www.accudesign.in/) | Industry-Level MERN Stack
-[cite_start]*Collaborated with Technewity Labs as a Full Stack Intern[cite: 14].*
-- [cite_start]🛠️ **Features:** Role-based access, dynamic admin dashboards, and user order tracking[cite: 14].
-- [cite_start]🔗 **Tech:** React.js, Node.js, Express.js, MongoDB, Git[cite: 15].
+*Built during my Full Stack Internship at Technewity Labs.*
+- **💡 Key Skills:** `Role-Based Access Control` `Dynamic Admin Dashboards` `Order Tracking Systems` `REST API Development`
+- **🛠️ Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 📚 [Library Management System](https://github.com/shreyansh2341/Library_Management_System) | Full Stack
-- [cite_start]🔑 **Auth:** Secure JWT-based digital library platform with user/admin dashboards[cite: 18].
-- [cite_start]💾 **Data:** Full CRUD operations and fine-grained access control[cite: 18].
-- [cite_start]🌐 **Tech:** MERN Stack, REST APIs, Git[cite: 19].
+- **💡 Key Skills:** `Secure JWT Auth` `Database Schema Design` `CRUD Operations` `Middleware Integration`
+- **🛠️ Tech Stack:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-#### 🤖 [BMI-Based Recommendation System](https://github.com/shreyansh2341/AI-Based-BMI-Calculation) | Web + AI
-- [cite_start]💬 **AI Interaction:** Integrated an AI chatbot to suggest personalized diet and exercise plans[cite: 29, 30].
-- [cite_start]📊 **Logic:** Built using Vanilla JS and DOM Manipulation to classify BMI results[cite: 29, 30].
+#### 🤖 [AI-Based BMI System](https://github.com/shreyansh2341/AI-Based-BMI-Calculation) | Web + AI
+- **💡 Key Skills:** `AI Chatbot Integration` `DOM Manipulation` `Algorithm Development` `Personalized UX`
+- **🛠️ Tech Stack:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ### 📜 Certifications & Achievements
-- [cite_start]🤖 **MumbaiHacks 2025** – Participant in the largest Agentic AI hackathon organized by TEAM[cite: 52].
-- 🏆 **Smart India Hackathon 2025** – Participated in the 3-day internal Hackathon (Sept 18-20, 2025).
-- [cite_start]🧠 **Tata Crucible Campus Quiz 2025** – Participation in Prelims Level 1 of this national competition[cite: 62, 65].
-- [cite_start]🐍 **Python 3x Programming** – Simplilearn (2024)[cite: 43].
-- [cite_start]💼 **Full Stack Internship** – Technewity Labs (2025)[cite: 42].
+- 🏆 **Smart India Hackathon 2025** – National participation in a 3-day intensive hackathon.
+- 🤖 **MumbaiHacks 2025** – Participated in the largest Agentic AI hackathon.
+- 🧠 **Tata Crucible Campus Quiz 2025** – National Level 1 Prelims participant.
+- 💼 **Full Stack Internship** – Technewity Labs (2025).
+- 🐍 **Python 3x Programming** – Simplilearn (2024).
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh2341&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh2341&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh2341&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh2341&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh2341&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh2341&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
 <p align="center">
-  <em>"Transforming complex requirements into seamless digital experiences."</em>
+  <em>"Engineering modern web solutions with precision and passion."</em>
 </p>
